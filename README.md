@@ -2,13 +2,7 @@
 
 **`Full Stack Web Developer`**
 
-        Hi there, I'm Chris! I'm a Full Stack Developer based in BC, Canada. I'm
-        passionate about solving complex problems with innovative solutions. My
-        approach is rooted in a growth mindset, which drives me to continually
-        learn and improve. With my versatile skill set in front-end and back-end
-        development, as well as database management, I'm eager to collaborate
-        with you to help bring your projects to the next level. Thanks for
-        stopping by!
+Hi there, I'm Chris! I'm a Full Stack Developer based in BC, Canada. I'm passionate about solving complex problems with innovative solutions. My approach is rooted in a growth mindset, which drives me to continually learn and improve. With my versatile skill set in front-end and back-end development, as well as database management, I'm eager to collaborate with you to help bring your projects to the next level. Thanks for stopping by!
 
 ---
 
