@@ -4,6 +4,23 @@
 
 Hi there, I'm Chris! I'm a Full Stack Developer based in BC, Canada. I'm passionate about solving complex problems with innovative solutions. My approach is rooted in a growth mindset, which drives me to continually learn and improve. With my versatile skill set in front-end and back-end development, as well as database management, I'm eager to collaborate with you to help bring your projects to the next level. Thanks for stopping by!
 
+## Projects
+
+### Pokedex
+This web application showcases my proficiency in front-end web development and API integration, with a focus on the use of JavaScript. By utilizing the PokeAPI and implementing dynamic rendering, error handling, and a search bar with autocomplete suggestions, users can easily search and view information about different Pokemon. With its visually appealing design, users can search for a specific Pokemon by name or ID number, or use the random button to generate a random Pokemon. Overall, this project highlights my ability to use JavaScript to create a functional and user-friendly web application.
+
+[View Live](https://projectpokedexapp.netlify.app/) | [Source Code](https://github.com/neoneb/neoneb-main/tree/main/projects/pokedexApp)
+
+<!-- ![Pokedex image](src/imgs/welcome.png) -->
+
+### Smart Brain
+This React app is designed to help users detect faces in images. In addition to using the Clarifai API, this React app also utilizes a Node.js server and a PostgreSQL relational database to store user information, including their ID, name, email, entries, and join date. The server communicates with the front-end React app to authenticate users and handle image submissions. The use of a PostgreSQL database enables the app to store user data in a secure and organized manner, ensuring that the app is scalable and can handle large amounts of user traffic. Overall, the combination of the Clarifai API, Node.js server, and PostgreSQL database makes this app a powerful and efficient tool for detecting faces in images.
+
+[View Live](https://smart-brain-ztm.netlify.app/) | [Front End Code](https://github.com/neoneb/neoneb-main/tree/main/constantLearning/zeroToMastery/completeWebDeveloper2023/js_practice/advanced-js/finalProject-smartBrainApp/my-app) | [Back End Code](https://github.com/neoneb/smartBrainApi)
+
+<!-- ![Smart Brain image](src/imgs/bneGeneric_Russia_facial_recognition_tech_tmt_blockchain__Cropped.jpg) -->
+
+
 ---
 
 ### 🧰 Languages and Tools
