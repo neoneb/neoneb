@@ -45,17 +45,17 @@ This React app is designed to help users detect faces in images. In addition to 
 
 <!-- ![Smart Brain image](src/imgs/bneGeneric_Russia_facial_recognition_tech_tmt_blockchain__Cropped.jpg) -->
 
-### 📊 Stats
+<!--### 📊 Stats-->
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneb&show_icons=true&theme=gruvbox)
+<!--![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneb&show_icons=true&theme=gruvbox)-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=neoneb&theme=gruvbox&border_radius=4.5) -->
 
-#
+<!--#-->
 
-<details>
- <summary><h3>👨‍💻 Chris's Coding Journey</h3></summary>
-todo
+<!--<details>-->
+ <!--<summary><h3>👨‍💻 Chris's Coding Journey</h3></summary>-->
+<!--todo-->
 
-[website]: 
+<!--[website]: -->
 
